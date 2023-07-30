@@ -9,6 +9,6 @@ public class TestController {
 
     @GetMapping("/EBS")
     public String home() {
-        return "Welcome to AWS deployement on Bean stalk...";
+        return "Github deployement";
     }
 }
