@@ -9,6 +9,6 @@ public class TestController {
 
     @GetMapping("/EBS")
     public String home() {
-        return "Kabli I LOVE YOU";
+        return "Bujjodaaaaa....";
     }
 }
